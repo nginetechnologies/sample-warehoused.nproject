@@ -1,0 +1,24 @@
+{
+    "35484075-0a3d-33c4-3b8b-f32d9a7b6d8c": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "7aba5aa5-5392-4d62-86dc-3e9ee1e67af0": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Warehouse",
+        "thumbnail": "385967c0-c277-d655-af60-6fbdfaa47231",
+        "tags": [
+            "26146dde-42b7-44b8-9d39-57d6e89d39fb"
+        ]
+    },
+    "d144c0a3-8a7a-4541-afb0-3ce10904f0ca": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Warehouse.scene.nasset"
+    },
+    "guid": "35484075-0a3d-33c4-3b8b-f32d9a7b6d8c",
+    "imported_assets": [
+        "385967c0-c277-d655-af60-6fbdfaa47231"
+    ]
+}
